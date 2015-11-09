@@ -13,4 +13,6 @@ The RGB file will be output in the Images folder.
 
 Add SamplesConfig.xml and TakeImageandDepEverySecond.bat to same folder with RunKinectContinuous and RunKinectImageContinuous
 to run a script which takes and formats an RGB image and DEPTH image every second. (XML file formats depth data in matrix format size of RBG image for easy reconstruction while .bat runs both .exe files to generate and name each RGB and Depth image)
- 
+
+Add recordKinectImageAndDepth.bat to the same folder with RunKinectContinuous and RunKinectImage Continuous
+to run a script which takes and formats a single RGB and DEPTH image. Must be in same location as SamplesConfig.xml
