@@ -1,0 +1,9 @@
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinect\RunKinect\bin\Release\RunKinect.exe
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinect\RunKinect\bin\Release\RunKinect.pdb
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinect\RunKinect\obj\x86\Release\RunKinect.exe
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinect\RunKinect\obj\x86\Release\RunKinect.pdb
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectContinuous\RunKinect\bin\Release\RunKinect.exe
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectContinuous\RunKinect\bin\Release\RunKinect.pdb
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectContinuous\RunKinect\obj\x86\Release\RunKinect.csprojResolveAssemblyReference.cache
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectContinuous\RunKinect\obj\x86\Release\RunKinect.exe
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectContinuous\RunKinect\obj\x86\Release\RunKinect.pdb

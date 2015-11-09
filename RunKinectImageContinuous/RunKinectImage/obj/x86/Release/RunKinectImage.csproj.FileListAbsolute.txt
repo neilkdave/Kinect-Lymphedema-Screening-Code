@@ -1,0 +1,10 @@
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectImageContinuous\RunKinectImage\obj\x86\Release\RunKinectImage.csprojResolveAssemblyReference.cache
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectImageContinuous\RunKinectImage\bin\Release\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectImageContinuous\RunKinectImage\bin\Release\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectImageContinuous\RunKinectImage\obj\x86\Release\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\Kinect_Guides_and_Code-2014-05-28\Kinect Guides and Code\RunKinectImageContinuous\RunKinectImage\obj\x86\Release\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\KinectBuild_SetupGuide\RunKinectImageContinuous\RunKinectImage\bin\Release\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\KinectBuild_SetupGuide\RunKinectImageContinuous\RunKinectImage\bin\Release\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\KinectBuild_SetupGuide\RunKinectImageContinuous\RunKinectImage\obj\x86\Release\RunKinectImage.csprojResolveAssemblyReference.cache
+C:\Users\thearchitect\Desktop\KinectBuild_SetupGuide\RunKinectImageContinuous\RunKinectImage\obj\x86\Release\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\KinectBuild_SetupGuide\RunKinectImageContinuous\RunKinectImage\obj\x86\Release\RunKinectImage.pdb
