@@ -1,0 +1,24 @@
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinect\RunKinect\obj\x86\Debug\RunKinect.csprojResolveAssemblyReference.cache
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinect\RunKinect\bin\Debug\RunKinect.exe
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinect\RunKinect\bin\Debug\RunKinect.pdb
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinect\RunKinect\obj\x86\Debug\RunKinect.exe
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinect\RunKinect\obj\x86\Debug\RunKinect.pdb
+C:\Users\CenSISS\Documents\Kinect Project\RunKinect\RunKinect\obj\x86\Debug\RunKinect.exe
+C:\Users\CenSISS\Documents\Kinect Project\RunKinect\RunKinect\obj\x86\Debug\RunKinect.pdb
+C:\Users\CenSISS\Documents\Kinect Project\RunKinect\RunKinect\bin\Debug\RunKinect.exe
+C:\Users\CenSISS\Documents\Kinect Project\RunKinect\RunKinect\bin\Debug\RunKinect.pdb
+C:\Users\CenSISS\Documents\Kinect Project\RunKinect\RunKinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect C# Project\RunKinect\obj\x86\Debug\RunKinect.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect C# Project\RunKinect\obj\x86\Debug\RunKinect.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect C# Project\RunKinect\bin\Debug\RunKinect.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect C# Project\RunKinect\bin\Debug\RunKinect.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect C# Project\RunKinect\obj\x86\Debug\RunKinect.csprojResolveAssemblyReference.cache
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect\obj\x86\Debug\RunKinect.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect\obj\x86\Debug\RunKinect.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect\bin\Debug\RunKinect.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect\bin\Debug\RunKinect.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinect\obj\x86\Debug\RunKinect.csprojResolveAssemblyReference.cache
+C:\Users\thearchitect\Desktop\KinectBuild_SetupGuide\RunKinect\obj\x86\Debug\RunKinect.exe
+C:\Users\thearchitect\Desktop\KinectBuild_SetupGuide\RunKinect\obj\x86\Debug\RunKinect.pdb
+C:\Users\Neil\Architect bkup\Desktop\KinectBuild_SetupGuide\RunKinect\obj\x86\Debug\RunKinect.exe
+C:\Users\Neil\Architect bkup\Desktop\KinectBuild_SetupGuide\RunKinect\obj\x86\Debug\RunKinect.pdb

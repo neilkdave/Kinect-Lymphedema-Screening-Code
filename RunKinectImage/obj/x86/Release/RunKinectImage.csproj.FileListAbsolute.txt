@@ -1,0 +1,10 @@
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage C# Project\RunKinectImage\obj\x86\Release\RunKinectImage.csprojResolveAssemblyReference.cache
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage C# Project\RunKinectImage\bin\Release\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage C# Project\RunKinectImage\bin\Release\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage C# Project\RunKinectImage\obj\x86\Release\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage C# Project\RunKinectImage\obj\x86\Release\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\bin\Release\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\bin\Release\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\obj\x86\Release\RunKinectImage.csprojResolveAssemblyReference.cache
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\obj\x86\Release\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\obj\x86\Release\RunKinectImage.pdb

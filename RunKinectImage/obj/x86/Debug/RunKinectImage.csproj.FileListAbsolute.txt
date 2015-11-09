@@ -1,0 +1,14 @@
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinectImage\RunKinectImage\obj\x86\Debug\RunKinectImage.csprojResolveAssemblyReference.cache
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinectImage\RunKinectImage\bin\Debug\RunKinectImage.exe
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinectImage\RunKinectImage\bin\Debug\RunKinectImage.pdb
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinectImage\RunKinectImage\obj\x86\Debug\RunKinectImage.exe
+D:\Users\CenSSIS\Documents\Kinect_Project\RunKinectImage\RunKinectImage\obj\x86\Debug\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage C# Project\RunKinectImage\obj\x86\Debug\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage C# Project\RunKinectImage\obj\x86\Debug\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\obj\x86\Debug\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\obj\x86\Debug\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\bin\Debug\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\bin\Debug\RunKinectImage.pdb
+C:\Users\thearchitect\Desktop\testkinectthing\RunKinectImage\obj\x86\Debug\RunKinectImage.csprojResolveAssemblyReference.cache
+C:\Users\thearchitect\Desktop\KinectBuild_SetupGuide\RunKinectImage\obj\x86\Debug\RunKinectImage.exe
+C:\Users\thearchitect\Desktop\KinectBuild_SetupGuide\RunKinectImage\obj\x86\Debug\RunKinectImage.pdb
